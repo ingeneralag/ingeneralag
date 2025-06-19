@@ -1,4 +1,4 @@
-# 🌟 Welcome to IN General 
+# 🌟 Welcome to IN General Company
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=IN+General+Digital;Digital+Solutions+Experts;Marketing+%26+Software" alt="Typing SVG" />
